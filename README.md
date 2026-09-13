@@ -2,5 +2,5 @@
 Hello world!
 <br>
 This is new code 
-<br
+<br>
 consistency is the key of success!
